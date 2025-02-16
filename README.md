@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Asim</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [MealsToGo](https://github.com/i-umayr/MealsToGo)
+- 🔭 I’m currently working on [Neural Inverse Kinematics](https://github.com/i-umayr/NeuralinverseKinematics)
 
 - 📫 How to reach me **uasim.bese21seecs@seecs.edu.pk**
 
